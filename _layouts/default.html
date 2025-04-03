@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{ '/stylesheets/stylesheet.css' | relative_url }}">
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      line-height: 1.6;
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    .profile-pic {
+      width: 160px;
+      border-radius: 100px;
+      margin-bottom: 1rem;
+    }
+    .social-links a {
+      margin-right: 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    hr {
+      margin: 2rem 0;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Susmita Das</h1>
+    <p>PhD Student · University of Glasgow</p>
+    <img class="profile-pic" src="/portfolio/assets/img/susmita.jpg" alt="Susmita Das">
+    <div class="social-links">
+      <a href="https://scholar.google.com/citations?user=_P2f8dkAAAAJ&hl=en" target="_blank">Google Scholar</a>
+      <a href="www.linkedin.com/in/susmita-das-a33369140" target="_blank">LinkedIn</a>
+    </div>
+    <hr>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+</body>
+</html>

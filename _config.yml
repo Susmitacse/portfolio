@@ -1,4 +1,9 @@
-title: Susmita Das
-# logo: /assets/img/
-show_downloads: True
-theme: jekyll-theme-minimal
+title: "Susmita Das"
+description: "PhD Student · University of Glasgow"
+baseurl: "/portfolio"         # Needed if your site is not at root
+url: "https://susmitacse.github.io"
+
+# Optional: if you're using your own layout, you can omit the theme
+# theme: jekyll-theme-minimal
+
+show_downloads: false         
