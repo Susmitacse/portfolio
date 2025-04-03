@@ -18,7 +18,4 @@ Prior to that, I completed my **B.Tech in Computer Science and Engineering** fro
 ---
 
 
-### 🔗 Find Me On
 
-- [Google Scholar](https://scholar.google.com/citations?user=_P2f8dkAAAAJ&hl=en)
-- [LinkedIn](www.linkedin.com/in/susmita-das-a33369140)
