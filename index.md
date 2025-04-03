@@ -3,7 +3,7 @@ layout: default
 title: "Susmita Das"
 ---
 
-<img src="/portfolio/assets/images/susmita.jpg" alt="Susmita Das" width="160"/>
+
 
 
 ### 👋 About Me
