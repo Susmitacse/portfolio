@@ -17,9 +17,13 @@ Prior to that, I completed my **B.Tech in Computer Science and Engineering** fro
 
 
 #### Research Interest 
-Natural Language Processing 
+
+Natural Language Processing
+
 Information Retrieval 
+
 Agentic AI
+
 Code Generation 
 
 ---
