@@ -16,6 +16,10 @@ I completed my **MS by Research** at **Indian Institute of Technology Kharagpur*
 Prior to that, I completed my **B.Tech in Computer Science and Engineering** from **Haldia Institute of Technology**, India.
 
 
+
+
+
+
 #### Research Interests
 
 - Natural Language Processing  
