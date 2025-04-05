@@ -35,7 +35,7 @@ You can download my CV <a href="assets/Susmita_Das_UofG.pdf" download>here</a>.
 
 
 #### Publication  
-**In-Context Learning as an Effective Estimator of Functional Correctness of LLMGenerated Code**  <br>
+**In-Context Learning as an Effective Estimator of Functional Correctness of LLM Generated Code**  <br>
 **Susmita Das**, Madhusudan Ghosh, Priyanka Swami, Debasis Ganguly and Gul Calikli  <br>
 Accepted in SIGIR 2025 (short paper), preprint coming soon
 
