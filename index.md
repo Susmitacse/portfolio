@@ -6,7 +6,7 @@ title: "Susmita Das"
 
 
 
-###  About Me
+##  About Me
 
 I am a second year PhD student at the School of Computing Science, University of Glasgow.  
 I am working on Code Generation using Multi-Agent System under the supervision of [Dr. Zaiqiao Meng](https://mengzaiqiao.github.io/).
@@ -24,7 +24,7 @@ You can download my CV <a href="assets/Susmita_Das_UofG.pdf" download>here</a>.
 
 
 
-#### Research Interests
+### Research Interests
 
 - Natural Language Processing  
 - Information Retrieval  
@@ -34,7 +34,7 @@ You can download my CV <a href="assets/Susmita_Das_UofG.pdf" download>here</a>.
 ---
 
 
-#### Publication  
+### Publication  
 **In-Context Learning as an Effective Estimator of Functional Correctness of LLM Generated Code**  <br>
 **Susmita Das**, Madhusudan Ghosh, Priyanka Swami, Debasis Ganguly and Gul Calikli  <br>
 Accepted in SIGIR 2025 (short paper), preprint coming soon
