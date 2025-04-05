@@ -15,7 +15,9 @@ I completed my MS by Research from Indian Institute of Technology Kharagpur, Ind
 
 Prior to that I did my B.Tech in Computer Science and Engineering from Haldia Institute of Technology, West Bengal, India.
 
-You can have a look at my CV [here](<a href="assets/Susmita_Das_CV.pdf" target="_blank">Download CV</a>). 
+You can download my CV <a href="assets/Susmita_Das_UofG.pdf" download>here</a>.
+
+ 
 
 
 
@@ -29,11 +31,11 @@ You can have a look at my CV [here](<a href="assets/Susmita_Das_CV.pdf" target="
 
 ---
 
-#### Publication
-**In-Context Learning as an Effective Estimator of Functional Correctness of LLMGenerated Code**
-**Susmita Das**, Madhusudan Ghosh, Priyanka Swami, Debasis Ganguly and Gul Calikli
 
-Accepted in SIGIR 2025 (short paper) , preprint coming soon
+#### Publication  
+**In-Context Learning as an Effective Estimator of Functional Correctness of LLMGenerated Code**  <br>
+**Susmita Das**, Madhusudan Ghosh, Priyanka Swami, Debasis Ganguly and Gul Calikli  <br>
+Accepted in SIGIR 2025 (short paper), preprint coming soon
 
 
 
