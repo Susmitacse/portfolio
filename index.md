@@ -15,7 +15,7 @@ I completed my MS by Research from Indian Institute of Technology Kharagpur, Ind
 
 Prior to that I did my B.Tech in Computer Science and Engineering from Haldia Institute of Technology, West Bengal, India.
 
-You can have a look at my CV here. 
+You can have a look at my CV [here](https://github.com/Susmitacse/portfolio/blob/main/Susmita_Das_UofG.pdf). 
 
 
 
