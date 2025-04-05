@@ -11,7 +11,7 @@ title: "Susmita Das"
 I am a second year PhD student at the School of Computing Science, University of Glasgow.  
 I am working on Code Generation using Multi-Agent System under the supervision of [Dr. Zaiqiao Meng](https://mengzaiqiao.github.io/).
 
-I did MS by Research from Indian Institute of Technology Kharagpur, India, where I worked on knowledge graphs in the field of oil and gas (project sponsored by [ONCG](https://ongcindia.com/web/eng) under the supervision of [Dr. Jiaul H. Paik](https://jiaul.github.io/).
+I did MS by Research from Indian Institute of Technology Kharagpur, India, where I worked on knowledge graphs in the field of oil and gas (project sponsored by [ONCG](https://ongcindia.com/web/eng)) under the supervision of [Dr. Jiaul H. Paik](https://jiaul.github.io/).
 
 During my masters I have also worked remotely on NLP related roject in medical domain with [Dr. Imon Banerjee](https://search.asu.edu/profile/3997231), Arizona State University, USA. 
 
